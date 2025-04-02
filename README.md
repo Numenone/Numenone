@@ -2,13 +2,13 @@
 
 ###
 
-<h4 align="center">I'm in the middle of a bachelor's degree on Computer Science and Systems, while studying for my future Master's on Software Engineering! <br><br><br>🟢 Co-author of Coder++, the freelancing website for programmers. 🟢<br><br><br>Free for any job, anywhere, everytime; but PLEASE don't ask me to centralize a <div> on HTML, that's inhumane.</h4>
+<h5 align="center">I'm in the middle of a bachelor's degree on Computer Science and Systems, while studying for my future Master's on Software Engineering! <br><br><br>🟢 Co-author of Coder++, the freelancing website for programmers. 🟢<br><br><br>Free for any job, anywhere, everytime; but PLEASE don't ask me to centralize a div on HTML, that's inhumane.</h5>
 
 ###
 
 <br clear="both">
 
-<h6 align="left">-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br><br>These are the programming languages and frameworks that I'm able to work currently:</h6>
+<h6 align="left">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br><br>These are the programming languages and frameworks that I'm able to work currently:</h6>
 
 ###
 
@@ -52,29 +52,39 @@
 
 ###
 
-<p align="center">And these are my social media links :)</p>
+<br><br><br> <p align="center">And these are my social media links :)</p>
 
 ###
 
 <div align="center">
-  <a href="instagram.com/slowslumber" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="115" height="40" alt="instagram logo"  />
+  <a href="instagram.com/slowslumber">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="115" height="40" alt="instagram logo"/>
   </a>
-  <a href="felipefeferibeiro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="115" height="40" alt="gmail logo"  />
+  <a href="felipefeferibeiro@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="115" height="40" alt="gmail logo"/>
   </a>
-  <a href="linkedin.com/in/felipe-ferreira-ribeiro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="115" height="40" alt="linkedin logo"  />
+  <a href="linkedin.com/in/felipe-ferreira-ribeiro/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="115" height="40" alt="linkedin logo"/>
   </a>
-  <a href="wa.me/+5553999892980" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="115" height="40" alt="whatsapp logo"  />
+  <a href="wa.me/+5553999892980">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="115" height="40" alt="whatsapp logo"/>
   </a>
 </div>
+<br><br><br><br><br>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/j_DUeuoAnXgAAAAM/piano-piano-on-fire.gif"  />
+
+  <img height="330" align="right" width="600" src="https://media.tenor.com/j_DUeuoAnXgAAAAM/piano-piano-on-fire.gif"  />
+
+
+###
+
+<div align="left">
+<a href="https://open.spotify.com/user/numenone">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=n10sajiijzr3anyjcd1z73zl3">
+</a>
 </div>
+
 
 ###
