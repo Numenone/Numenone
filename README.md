@@ -75,9 +75,6 @@
 ###
 
 
-  <img height="330" align="right" width="430" src="https://media.tenor.com/j_DUeuoAnXgAAAAM/piano-piano-on-fire.gif"  />
-
-
 ###
 
 <div align="left">
